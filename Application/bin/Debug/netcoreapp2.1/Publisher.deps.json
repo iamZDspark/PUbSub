@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Publisher/1.0.0": {
+        "dependencies": {
+          "Apache.NMS": "1.8.0",
+          "Apache.NMS.ActiveMQ": "1.7.2",
+          "Apache.NMS.Core": "1.7.1.1"
+        },
+        "runtime": {
+          "Publisher.dll": {}
+        }
+      },
+      "Apache.NMS/1.8.0": {
+        "runtime": {
+          "lib/netstandard2.0/Apache.NMS.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.0"
+          }
+        }
+      },
+      "Apache.NMS.ActiveMQ/1.7.2": {
+        "dependencies": {
+          "Apache.NMS": "1.8.0"
+        },
+        "runtime": {
+          "lib/net40/Apache.NMS.ActiveMQ.dll": {
+            "assemblyVersion": "1.7.2.4108",
+            "fileVersion": "1.7.2.4108"
+          }
+        }
+      },
+      "Apache.NMS.Core/1.7.1.1": {}
+    }
+  },
+  "libraries": {
+    "Publisher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apache.NMS/1.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kN2PzpT4YLseq0SRPfI0BKZ17PlkVwBUyug1KtauoVHe4QALSIlUCW8rkB/1kPpDCjvRF093FEEVGmMUhPhSew==",
+      "path": "apache.nms/1.8.0",
+      "hashPath": "apache.nms.1.8.0.nupkg.sha512"
+    },
+    "Apache.NMS.ActiveMQ/1.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-byKSg5/G7JGoDzSGGw4KK43/hpOGrXCtjZyjBcEjTF6ZscnrUiy8r20nyv85P55+nNmfa8q+tSF0GURd1GxYag==",
+      "path": "apache.nms.activemq/1.7.2",
+      "hashPath": "apache.nms.activemq.1.7.2.nupkg.sha512"
+    },
+    "Apache.NMS.Core/1.7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y8jjZaXP1e9CnkexnxnnJ63igGRWyUG310+VbSPwyCseebfEacJ4dWmK4bbLEu+jdzikzEKFUspuICHlnFBpNg==",
+      "path": "apache.nms.core/1.7.1.1",
+      "hashPath": "apache.nms.core.1.7.1.1.nupkg.sha512"
+    }
+  }
+}

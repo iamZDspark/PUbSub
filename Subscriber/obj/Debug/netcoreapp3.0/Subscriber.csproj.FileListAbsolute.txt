@@ -1,0 +1,14 @@
+C:\Users\shail\source\repos\Application\Subscriber\bin\Debug\netcoreapp3.0\Subscriber.exe
+C:\Users\shail\source\repos\Application\Subscriber\obj\Debug\netcoreapp3.0\Subscriber.csprojAssemblyReference.cache
+C:\Users\shail\source\repos\Application\Subscriber\obj\Debug\netcoreapp3.0\Subscriber.AssemblyInfoInputs.cache
+C:\Users\shail\source\repos\Application\Subscriber\obj\Debug\netcoreapp3.0\Subscriber.AssemblyInfo.cs
+C:\Users\shail\source\repos\Application\Subscriber\bin\Debug\netcoreapp3.0\Apache.NMS.dll
+C:\Users\shail\source\repos\Application\Subscriber\obj\Debug\netcoreapp3.0\Subscriber.csproj.CopyComplete
+C:\Users\shail\source\repos\Application\Subscriber\bin\Debug\netcoreapp3.0\Apache.NMS.ActiveMQ.dll
+C:\Users\shail\source\repos\Application\Subscriber\bin\Debug\netcoreapp3.0\Subscriber.deps.json
+C:\Users\shail\source\repos\Application\Subscriber\bin\Debug\netcoreapp3.0\Subscriber.runtimeconfig.json
+C:\Users\shail\source\repos\Application\Subscriber\bin\Debug\netcoreapp3.0\Subscriber.runtimeconfig.dev.json
+C:\Users\shail\source\repos\Application\Subscriber\bin\Debug\netcoreapp3.0\Subscriber.dll
+C:\Users\shail\source\repos\Application\Subscriber\bin\Debug\netcoreapp3.0\Subscriber.pdb
+C:\Users\shail\source\repos\Application\Subscriber\obj\Debug\netcoreapp3.0\Subscriber.dll
+C:\Users\shail\source\repos\Application\Subscriber\obj\Debug\netcoreapp3.0\Subscriber.pdb

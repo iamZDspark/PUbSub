@@ -1,0 +1,10 @@
+C:\Users\shail\source\repos\Application\Application\bin\Debug\netcoreapp2.1\Publisher.deps.json
+C:\Users\shail\source\repos\Application\Application\bin\Debug\netcoreapp2.1\Publisher.runtimeconfig.json
+C:\Users\shail\source\repos\Application\Application\bin\Debug\netcoreapp2.1\Publisher.runtimeconfig.dev.json
+C:\Users\shail\source\repos\Application\Application\bin\Debug\netcoreapp2.1\Publisher.dll
+C:\Users\shail\source\repos\Application\Application\obj\Debug\netcoreapp2.1\Publisher.csprojAssemblyReference.cache
+C:\Users\shail\source\repos\Application\Application\obj\Debug\netcoreapp2.1\Publisher.AssemblyInfoInputs.cache
+C:\Users\shail\source\repos\Application\Application\obj\Debug\netcoreapp2.1\Publisher.AssemblyInfo.cs
+C:\Users\shail\source\repos\Application\Application\bin\Debug\netcoreapp2.1\Publisher.pdb
+C:\Users\shail\source\repos\Application\Application\obj\Debug\netcoreapp2.1\Publisher.dll
+C:\Users\shail\source\repos\Application\Application\obj\Debug\netcoreapp2.1\Publisher.pdb
